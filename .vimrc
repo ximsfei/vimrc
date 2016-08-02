@@ -28,6 +28,7 @@ set expandtab
 set smarttab
 
 set number
+set relativenumber
 set history=1000
 
 set hlsearch
